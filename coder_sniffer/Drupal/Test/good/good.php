@@ -891,7 +891,7 @@ function drush_mymodule_foo_bar() {
 }
 
 /**
- * Implements drush_hook_foo_bar() for blocks.
+ * Implements hook_foo_bar() for blocks.
  */
 function mymodule_foo_bar_block() {
 
